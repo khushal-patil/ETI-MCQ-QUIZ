@@ -11,7 +11,6 @@ An Android application for practicing **Multiple Choice Questions (MCQs)** desig
 * 🌐 **Online & Offline Support** – study anytime, anywhere.
 * 📊 **Score Tracking** – view performance at the end of each quiz.
 * 📱 **Lightweight App** that runs on most Android devices.
-* 💡 Ad-supported for free usage.
 
 ---
 
@@ -51,15 +50,6 @@ Here are some screenshots of the app:
 
 ---
 
-## 📩 Developer & Support
-
-* 👨‍💻 Developer: **Hirchand Shivram Patil** (Khushal Creations)
-* 📧 Email: **[hirchandpatil@gmail.com](mailto:hirchandpatil@gmail.com)**
-* 🌍 Website: [khushalcreations2403.blogspot.com](https://khushalcreations2403.blogspot.com)
-
-For queries or suggestions, feel free to reach out.
-
----
 
 ## 🤝 Contributing
 
@@ -71,13 +61,6 @@ Contributions are welcome!
 4. Push to branch: `git push origin feature/my-feature`.
 5. Open a Pull Request.
 
----
-
-## 📜 License
-
-This project currently does not include a license. Add a license (MIT, Apache 2.0, etc.) before making it open-source.
-
----
 
 ## 📝 Changelog
 
@@ -85,5 +68,3 @@ This project currently does not include a license. Add a license (MIT, Apache 2.
 * **10+ Downloads** on Google Play Store.
 
 ---
-
-✨ *This README is for the ITI Electrician Quiz project. Customize it further to match your GitHub repository structure (e.g., add build instructions, Gradle setup, or CI/CD workflow).*
